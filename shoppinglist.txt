@@ -3,6 +3,6 @@ Shopping list:
 apple
 orange
 banana
-wheat
 cereal
 lemon
+rice
